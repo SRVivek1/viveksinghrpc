@@ -1,4 +1,4 @@
-- 👋 Hi, myself Vivek Singh, a passionate software engineer. I'm avialble for part-time/freelancing projects.
+- 👋 Hi, myself Vivek Singh, a passionate software engineer. I'm available for part-time/freelancing projects.
 - 👀 I’m interested in emerging technology skills, so always try to learn something new.
 - 🌱 I’m currently learning AWS APIs using java.
 - 💞️ I’m looking to collaborate on ???
